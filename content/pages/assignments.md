@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes a set of 12 assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
